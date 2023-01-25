@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<friends>
+    <friend>
+        <name>경하</name>
+        <age>28</age>
+        <alias>김경하</alias>
+    </friend>
+    <friend>
+        <name>순돌</name>
+        <age>7</age>
+        <alias>개순돌</alias>
+    </friend>
+    <friend>
+        <name>깐돌</name>
+        <age>4</age>
+        <alias>개깐돌</alias>
+    </friend>
+<friends>

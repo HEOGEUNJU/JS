@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<script>
+let dbHost;
+if (process.env.DB_HOST) {
+  dbHost = process.env.DB_HOST;
+} else {
+  dbHost = 'localhost';
+}
+console.log(dbHost);
+</script>
